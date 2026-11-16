@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" fill="#800020"/>
+  <rect x="60" y="60" width="1080" height="510" rx="24" fill="#FDF6E3"/>
+  <g transform="translate(600, 255)">
+    <!-- Star icon -->
+    <polygon points="0,-80 14,-24 80,-24 22,16 36,80 0,44 -36,80 -22,16 -80,-24 -14,-24" fill="#800020"/>
+    <text x="0" y="160" text-anchor="middle" font-family="system-ui, sans-serif" font-size="48" font-weight="700" fill="#800020">Starstruck</text>
+    <text x="0" y="220" text-anchor="middle" font-family="system-ui, sans-serif" font-size="24" fill="#E8B4B8">Premium Computer Parts & Custom PC Building</text>
+    <text x="0" y="280" text-anchor="middle" font-family="system-ui, sans-serif" font-size="20" fill="#800020">Dhaka, Bangladesh</text>
+  </g>
+</svg>
